@@ -1,0 +1,13 @@
+ yum install git -y
+  114  git init
+  115  ls
+  116  git add dockerfile
+  117  git commit -m "first git"
+  118  git remote add origin https://github.com/ls1223/gitcommands.git
+  119  git push -u origin master
+  120  git pull
+  121  cat docker
+  122  ls
+  123  cat dockerfile
+  124  history
+
